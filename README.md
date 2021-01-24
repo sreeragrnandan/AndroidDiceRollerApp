@@ -1,1 +1,1 @@
-"# AndroidDiceRollerApp" 
+# AndroidDiceRollerApp
